@@ -13,7 +13,11 @@ echo "<br>";
 echo "this is chenge form ajay branch";
 echo "<br>";
 echo "hey ajay how are you?";
-
+echo $a = 4;
+echo $b = 6;
 echo "this is chenge form ajay branch";
 
+echo "<br>";
+echo $a + $b;
+echo "<br> done";
 echo "update agin text chagnes";
